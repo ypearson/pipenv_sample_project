@@ -20,5 +20,5 @@ sudo apt install python3-pip
 
 python3 -m pip install --user pipenv
 
-pipenv install # installs from Pipfile
+pipenv install --dev # installs from Pipfile
 
